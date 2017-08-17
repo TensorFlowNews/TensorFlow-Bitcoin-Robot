@@ -1,3 +1,6 @@
+## README_CN.MD
+[https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/README_CN.MD](https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/README_CN.MD)
+
 ##  Into
 A Bitcoin trade robot based on Tensorflow LSTM model.Just for fun.
 
@@ -27,3 +30,7 @@ http://www.tensorflownews.com/
 model saver
 
 data saver
+
+## WeChatGroup
+
+![https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/wechatgroup.jpg](https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/wechatgroup.jpg)

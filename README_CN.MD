@@ -23,3 +23,6 @@ http://www.tensorflownews.com/
 
 ## 更新计划
 模型持久化，训练数据集持久化。
+
+## 微信群
+![https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/wechatgroup.jpg](https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/wechatgroup.jpg)
