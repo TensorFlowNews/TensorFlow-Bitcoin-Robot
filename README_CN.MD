@@ -26,3 +26,6 @@ http://www.tensorflownews.com/
 
 ## 微信群
 ![https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/wechatgroup.jpg](https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/wechatgroup.jpg)
+
+## QQ群：
+522785813

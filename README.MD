@@ -1,4 +1,4 @@
-## README_CN.MD
+## 中文说明
 [https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/README_CN.MD](https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/README_CN.MD)
 
 ##  Into
