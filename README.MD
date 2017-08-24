@@ -32,5 +32,4 @@ model saver
 data saver
 
 ## WeChatGroup
-
-![https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/wechatgroup.jpg](https://github.com/TensorFlowNews/TensorFlow-Bitcoin-Robot/blob/master/wechatgroup.jpg)
+![WeChatGroup Pic](https://github.com/fendouai/FaceRank/blob/master/wechatgroup.jpg)
